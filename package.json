@@ -1,0 +1,26 @@
+{
+  "name": "grunt-nuget",
+  "version": "1.0.0",
+  "description": "NuGet task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ndelitski/grunt-nuget.git"
+  },
+  "keywords": [
+    "nuget",
+    "mono",
+    ".net",
+    "csharp",
+    "c#"
+  ],
+  "author": "Nick Delitski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndelitski/grunt-nuget/issues"
+  },
+  "homepage": "https://github.com/ndelitski/grunt-nuget"
+}
